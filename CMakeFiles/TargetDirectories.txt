@@ -1,0 +1,1 @@
+/home/mateusz/magisterska/BagOfWOrds (kopia)/CMakeFiles/bow.dir

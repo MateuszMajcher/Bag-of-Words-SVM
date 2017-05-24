@@ -1,0 +1,5 @@
+svm_old statyczne gamma i c
+svm - autotrain
+trainer - 1_10 param
+default_trainer - defaultowy
+default_svm - defaultowy
